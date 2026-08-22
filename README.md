@@ -61,5 +61,5 @@ Streamlit deployment
 
 Shivam Kumar Bhagat
 GitHub: https://github.com/ShivamCodez
-LinkedIn: https://www.linkedin.com/in/shivam-kumar-bhagat-a42995219
+LinkedIn: https://www.linkedin.com/in/shivam-bhagat-a42995219/
    
